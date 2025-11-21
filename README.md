@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=false&width=435&lines=Java+developer" alt="Typing SVG" /></h3>
 
+![](https://komarev.com/ghpvc/?username=Verba163)
+
 <h3 align="center">What's my way</h3>
 <div align="center">I aspire to become a skilled and in-demand developer. I wish to participate in large-scale projects, lead a team, and continuously improve my knowledge in the field of programming.</div>
 <h3 align="center">Technology Stack</h3>
@@ -24,5 +26,3 @@
 </p>
 
 <h3 align="center">Check Out My Repos</h3>
-
-![](https://komarev.com/ghpvc/?username=Verba163)
