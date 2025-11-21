@@ -3,5 +3,5 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=false&width=435&lines=Aspiring+Java+developer" alt="Typing SVG" /></h3>
 
 <h2 align="center">What is my way</h2>
-<align="center">I aspire to become a skilled and in-demand developer. I wish to participate in large-scale projects, lead a team, and continuously improve my knowledge in the field of programming.<>
+<div class="center-text">I aspire to become a skilled and in-demand developer. I wish to participate in large-scale projects, lead a team, and continuously improve my knowledge in the field of programming.</div>
 
