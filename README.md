@@ -17,4 +17,4 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Verba163's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verba163&show_icons=true&theme=transparent)
