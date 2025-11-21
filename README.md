@@ -20,9 +20,7 @@
 <h3 align="center">Years Stats</h3>
 
 <p align="center">
-  
-![Verba163's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verba163&show_icons=true&theme=transparent)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Verba163&show_icons=true&theme=transparent" alt="Verba163's GitHub stats">
 </p>
 
 <h3 align="center">Check Out My Repos</h3>
