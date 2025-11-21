@@ -25,4 +25,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Verba163&show_icons=true&theme=transparent" alt="Verba163's GitHub stats">
 </p>
 
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="https://t.me/Verba6643" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
 <h3 align="center">Check Out My Repos</h3>
+
+
