@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Verba6643/" target="_blank">Dmitrii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Java+developer" alt="Typing SVG" /></a>
+
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
