@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dmitrii</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/Verba6643/" target="_blank">Dmitrii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Aspiring+Java+developer+and+IT+enthusiast+from+Russia)](https://git.io/typing-svg)[/h3]
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Java+developer+and+IT+enthusiast+from+Russia" alt="Typing SVG" /></a>[/h3]
 
 <!--
 **Verba163/Verba163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
